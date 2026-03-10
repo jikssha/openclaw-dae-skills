@@ -1,0 +1,5 @@
+**/config.local.json
+**/runtime/
+**/__pycache__/
+**/*.pyc
+.DS_Store
