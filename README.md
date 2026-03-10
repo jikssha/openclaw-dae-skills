@@ -1,4 +1,3 @@
-# openclaw-dae-skills
 # OpenClaw 搜索技能集
 
 这是一组面向 **OpenClaw** 的搜索技能仓库，目前包含两个技能：
