@@ -1,12 +1,4 @@
 # OpenClaw 搜索技能集
-**安装方法--- 发给你的openclaw即可**
-```
-从这个 GitHub 仓库安装 exa-search 和 grok-search 两个 skill：
-https://github.com/jikssha/openclaw-dae-skills
-
----
-
-安装后请根据 config.example.json 自行创建 config.local.json 并填写自己的 API key。
 
 这是一组面向 **OpenClaw** 的搜索技能仓库，目前包含两个技能：
 
